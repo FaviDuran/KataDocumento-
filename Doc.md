@@ -1,6 +1,6 @@
-Hola soy  Favi
+## Hola soy  Favi
 
-Otro Párrafo
+### Otro Párrafo
 
 Otro más
 
